@@ -1,2 +1,3 @@
 # U16A2-LT
-Unit 16 Assingment 2
+The code for problem 1 and problem 2 are jnder the U16A2 folder. 
+Any other documents will be under the Docs folder.
