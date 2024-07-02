@@ -1,0 +1,40 @@
+C:\Users\mauge\source\repos\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\bin\Debug\net8.0-windows\Unit-16-A2-To-Do-List.exe
+C:\Users\mauge\source\repos\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\bin\Debug\net8.0-windows\Unit-16-A2-To-Do-List.deps.json
+C:\Users\mauge\source\repos\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\bin\Debug\net8.0-windows\Unit-16-A2-To-Do-List.runtimeconfig.json
+C:\Users\mauge\source\repos\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\bin\Debug\net8.0-windows\Unit-16-A2-To-Do-List.dll
+C:\Users\mauge\source\repos\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\bin\Debug\net8.0-windows\Unit-16-A2-To-Do-List.pdb
+C:\Users\mauge\source\repos\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\mauge\source\repos\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\mauge\source\repos\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\Unit-16-A2-To-Do-List_MarkupCompile.cache
+C:\Users\mauge\source\repos\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\Unit-16-A2-To-Do-List_MarkupCompile.lref
+C:\Users\mauge\source\repos\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\mauge\source\repos\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\Unit-16-A2-To-Do-List.g.resources
+C:\Users\mauge\source\repos\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\Unit-16-A2-To-Do-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauge\source\repos\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\Unit-16-A2-To-Do-List.AssemblyInfoInputs.cache
+C:\Users\mauge\source\repos\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\Unit-16-A2-To-Do-List.AssemblyInfo.cs
+C:\Users\mauge\source\repos\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\Unit-16-A2-To-Do-List.csproj.CoreCompileInputs.cache
+C:\Users\mauge\source\repos\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\Unit-16-A2-To-Do-List.dll
+C:\Users\mauge\source\repos\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\refint\Unit-16-A2-To-Do-List.dll
+C:\Users\mauge\source\repos\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\Unit-16-A2-To-Do-List.pdb
+C:\Users\mauge\source\repos\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\Unit-16-A2-To-Do-List.genruntimeconfig.cache
+C:\Users\mauge\source\repos\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\ref\Unit-16-A2-To-Do-List.dll
+D:\oliver code\U16A2_OliverBinns-main\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\bin\Debug\net8.0-windows\Unit-16-A2-To-Do-List.exe
+D:\oliver code\U16A2_OliverBinns-main\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\bin\Debug\net8.0-windows\Unit-16-A2-To-Do-List.deps.json
+D:\oliver code\U16A2_OliverBinns-main\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\bin\Debug\net8.0-windows\Unit-16-A2-To-Do-List.runtimeconfig.json
+D:\oliver code\U16A2_OliverBinns-main\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\bin\Debug\net8.0-windows\Unit-16-A2-To-Do-List.dll
+D:\oliver code\U16A2_OliverBinns-main\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\bin\Debug\net8.0-windows\Unit-16-A2-To-Do-List.pdb
+D:\oliver code\U16A2_OliverBinns-main\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\oliver code\U16A2_OliverBinns-main\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\App.g.cs
+D:\oliver code\U16A2_OliverBinns-main\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\Unit-16-A2-To-Do-List_MarkupCompile.cache
+D:\oliver code\U16A2_OliverBinns-main\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\Unit-16-A2-To-Do-List_MarkupCompile.lref
+D:\oliver code\U16A2_OliverBinns-main\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\MainWindow.baml
+D:\oliver code\U16A2_OliverBinns-main\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\Unit-16-A2-To-Do-List.g.resources
+D:\oliver code\U16A2_OliverBinns-main\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\Unit-16-A2-To-Do-List.GeneratedMSBuildEditorConfig.editorconfig
+D:\oliver code\U16A2_OliverBinns-main\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\Unit-16-A2-To-Do-List.AssemblyInfoInputs.cache
+D:\oliver code\U16A2_OliverBinns-main\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\Unit-16-A2-To-Do-List.AssemblyInfo.cs
+D:\oliver code\U16A2_OliverBinns-main\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\Unit-16-A2-To-Do-List.csproj.CoreCompileInputs.cache
+D:\oliver code\U16A2_OliverBinns-main\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\Unit-16-A2-To-Do-List.dll
+D:\oliver code\U16A2_OliverBinns-main\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\refint\Unit-16-A2-To-Do-List.dll
+D:\oliver code\U16A2_OliverBinns-main\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\Unit-16-A2-To-Do-List.pdb
+D:\oliver code\U16A2_OliverBinns-main\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\Unit-16-A2-To-Do-List.genruntimeconfig.cache
+D:\oliver code\U16A2_OliverBinns-main\Unit-16-A2-To-Do-List\Unit-16-A2-To-Do-List\obj\Debug\net8.0-windows\ref\Unit-16-A2-To-Do-List.dll
